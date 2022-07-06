@@ -7,10 +7,14 @@ function obtenerMayor(x, y) {
   // Tu código:
 }
 
+
+https://Token@github.com/girusername/reponame.git
 function mayoriaDeEdad(edad) {
   //Determinar si la persona según su edad puede ingresar a un evento.
   //Si tiene 18 años ó más, devolver --> "Allowed"
   //Si es menor, devolver --> "Not allowed"
+
+  //PRUEBAA
 }
   
 function conection(status) {
